@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 0b023c35fdaf03545a7b3d98d7289337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -814810668133441339
+    second: SokobanClone_byVellidragon_0
+  - first:
+      213: 4310401594067639555
+    second: SokobanClone_byVellidragon_1
+  - first:
+      213: 6339550821295276882
+    second: SokobanClone_byVellidragon_2
+  - first:
+      213: 5980659880536138213
+    second: SokobanClone_byVellidragon_3
+  - first:
+      213: -2517887088116591109
+    second: SokobanClone_byVellidragon_4
+  - first:
+      213: 4493931380170232695
+    second: SokobanClone_byVellidragon_5
+  - first:
+      213: 5900198528206247694
+    second: SokobanClone_byVellidragon_6
+  - first:
+      213: 2390610674250661533
+    second: SokobanClone_byVellidragon_7
+  - first:
+      213: 3696882310613620045
+    second: SokobanClone_byVellidragon_8
+  - first:
+      213: -3261463090498910780
+    second: SokobanClone_byVellidragon_9
+  - first:
+      213: -7157619626997057973
+    second: SokobanClone_byVellidragon_10
+  - first:
+      213: 1765120407563303420
+    second: SokobanClone_byVellidragon_11
+  - first:
+      213: 9112872553839675941
+    second: SokobanClone_byVellidragon_12
+  - first:
+      213: 1603808925984941969
+    second: SokobanClone_byVellidragon_13
+  - first:
+      213: -869274742591146278
+    second: SokobanClone_byVellidragon_14
+  - first:
+      213: -1583648469576507087
+    second: SokobanClone_byVellidragon_15
+  - first:
+      213: 2637354742606748513
+    second: SokobanClone_byVellidragon_16
+  - first:
+      213: -1396752506610627256
+    second: SokobanClone_byVellidragon_17
+  - first:
+      213: -7341811895804615686
+    second: SokobanClone_byVellidragon_18
+  - first:
+      213: 9120546306782424495
+    second: SokobanClone_byVellidragon_19
+  - first:
+      213: -7421613812052920300
+    second: SokobanClone_byVellidragon_20
+  - first:
+      213: -2435956035581824554
+    second: SokobanClone_byVellidragon_21
+  - first:
+      213: 4007160823764738360
+    second: SokobanClone_byVellidragon_22
+  - first:
+      213: -415984834804619409
+    second: SokobanClone_byVellidragon_23
+  - first:
+      213: 7038436022169538646
+    second: SokobanClone_byVellidragon_24
+  - first:
+      213: -4115881897240216619
+    second: SokobanClone_byVellidragon_25
+  - first:
+      213: -1690843548907602106
+    second: SokobanClone_byVellidragon_26
+  - first:
+      213: 7828719336640586454
+    second: SokobanClone_byVellidragon_27
+  - first:
+      213: -6030144019128402607
+    second: SokobanClone_byVellidragon_28
+  - first:
+      213: 6412911916009480627
+    second: SokobanClone_byVellidragon_29
+  - first:
+      213: -3198900997240590312
+    second: SokobanClone_byVellidragon_30
+  - first:
+      213: -4647205479074375365
+    second: SokobanClone_byVellidragon_31
+  - first:
+      213: -6113375771242218423
+    second: SokobanClone_byVellidragon_32
+  - first:
+      213: 6919715820199884872
+    second: SokobanClone_byVellidragon_33
+  - first:
+      213: 1988539448536977532
+    second: SokobanClone_byVellidragon_34
+  - first:
+      213: 8216893359304876942
+    second: SokobanClone_byVellidragon_35
+  - first:
+      213: 240075550854360826
+    second: SokobanClone_byVellidragon_36
+  - first:
+      213: 4566815411502892908
+    second: SokobanClone_byVellidragon_37
+  - first:
+      213: 9073114883936748610
+    second: SokobanClone_byVellidragon_38
+  - first:
+      213: 5188073269272014829
+    second: SokobanClone_byVellidragon_39
+  - first:
+      213: -1474937493040362034
+    second: SokobanClone_byVellidragon_40
+  - first:
+      213: 5385720328999142271
+    second: SokobanClone_byVellidragon_41
+  - first:
+      213: 4110570908740988945
+    second: SokobanClone_byVellidragon_42
+  - first:
+      213: -3108197548409698885
+    second: SokobanClone_byVellidragon_43
+  - first:
+      213: 2538869893095250986
+    second: SokobanClone_byVellidragon_44
+  - first:
+      213: -7666525714932765423
+    second: SokobanClone_byVellidragon_45
+  - first:
+      213: 1591919879703546451
+    second: SokobanClone_byVellidragon_46
+  - first:
+      213: 3186079969090226011
+    second: SokobanClone_byVellidragon_47
+  - first:
+      213: 3452820828448796920
+    second: SokobanClone_byVellidragon_48
+  - first:
+      213: -2505620660228898039
+    second: SokobanClone_byVellidragon_49
+  - first:
+      213: -8936049881907925497
+    second: SokobanClone_byVellidragon_50
+  - first:
+      213: 1464032198209177016
+    second: SokobanClone_byVellidragon_51
+  - first:
+      213: 8160737096799164940
+    second: SokobanClone_byVellidragon_52
+  - first:
+      213: 2122034778596668492
+    second: SokobanClone_byVellidragon_53
+  - first:
+      213: -2304174197718383502
+    second: SokobanClone_byVellidragon_54
+  - first:
+      213: -3942723287496654340
+    second: SokobanClone_byVellidragon_55
+  - first:
+      213: -5459825171062712971
+    second: SokobanClone_byVellidragon_56
+  - first:
+      213: 4992010274057441485
+    second: SokobanClone_byVellidragon_57
+  - first:
+      213: 8486037692756043642
+    second: SokobanClone_byVellidragon_58
+  - first:
+      213: -1208716898897326031
+    second: SokobanClone_byVellidragon_59
+  - first:
+      213: 2239752682129535106
+    second: SokobanClone_byVellidragon_60
+  - first:
+      213: 5345626531464812463
+    second: SokobanClone_byVellidragon_61
+  - first:
+      213: 8302285155719011006
+    second: SokobanClone_byVellidragon_0
+  - first:
+      213: 7114019785721870365
+    second: SokobanClone_byVellidragon_1
+  - first:
+      213: -8532096729751284647
+    second: SokobanClone_byVellidragon_2
+  - first:
+      213: -3275310827748972472
+    second: SokobanClone_byVellidragon_3
+  - first:
+      213: -5893562518874869736
+    second: SokobanClone_byVellidragon_4
+  - first:
+      213: 1216919632341726917
+    second: SokobanClone_byVellidragon_5
+  - first:
+      213: 2716635848997653289
+    second: SokobanClone_byVellidragon_6
+  - first:
+      213: 4662614163617741975
+    second: SokobanClone_byVellidragon_7
+  - first:
+      213: -6099653867252289642
+    second: SokobanClone_byVellidragon_8
+  - first:
+      213: -7916055875048436770
+    second: SokobanClone_byVellidragon_9
+  - first:
+      213: -6349799666493963930
+    second: SokobanClone_byVellidragon_10
+  - first:
+      213: -2131767553950197868
+    second: SokobanClone_byVellidragon_11
+  - first:
+      213: -6603203897912340163
+    second: SokobanClone_byVellidragon_12
+  - first:
+      213: -6246921551448904654
+    second: SokobanClone_byVellidragon_13
+  - first:
+      213: 3586106385254958760
+    second: SokobanClone_byVellidragon_14
+  - first:
+      213: -9094668173773752385
+    second: SokobanClone_byVellidragon_15
+  - first:
+      213: -5621857374226105015
+    second: SokobanClone_byVellidragon_16
+  - first:
+      213: -1511522777664573205
+    second: SokobanClone_byVellidragon_17
+  - first:
+      213: 2873472146992576954
+    second: SokobanClone_byVellidragon_18
+  - first:
+      213: 1296977023975166955
+    second: SokobanClone_byVellidragon_19
+  - first:
+      213: 5731742592003332853
+    second: SokobanClone_byVellidragon_20
+  - first:
+      213: -3145437919188547418
+    second: SokobanClone_byVellidragon_21
+  - first:
+      213: 4700572824530316051
+    second: SokobanClone_byVellidragon_22
+  - first:
+      213: 760171700576413339
+    second: SokobanClone_byVellidragon_23
+  - first:
+      213: 5860640316786251024
+    second: SokobanClone_byVellidragon_24
+  - first:
+      213: -4241329539182949725
+    second: SokobanClone_byVellidragon_25
+  - first:
+      213: 7137612460594407466
+    second: SokobanClone_byVellidragon_26
+  - first:
+      213: 5942549780912544154
+    second: SokobanClone_byVellidragon_27
+  - first:
+      213: -916569744036787751
+    second: SokobanClone_byVellidragon_28
+  - first:
+      213: -3421598512220822928
+    second: SokobanClone_byVellidragon_29
+  - first:
+      213: -1306410231512848719
+    second: SokobanClone_byVellidragon_30
+  - first:
+      213: -2484698174968326029
+    second: SokobanClone_byVellidragon_31
+  - first:
+      213: -2486883701128165545
+    second: SokobanClone_byVellidragon_32
+  - first:
+      213: 3236038346769039061
+    second: SokobanClone_byVellidragon_33
+  - first:
+      213: -4393179625360656494
+    second: SokobanClone_byVellidragon_34
+  - first:
+      213: 3951911584996900869
+    second: SokobanClone_byVellidragon_35
+  - first:
+      213: 770412607965433255
+    second: SokobanClone_byVellidragon_36
+  - first:
+      213: -6564012932997205690
+    second: SokobanClone_byVellidragon_37
+  - first:
+      213: -4218026620965657978
+    second: SokobanClone_byVellidragon_38
+  - first:
+      213: 5769930794800312658
+    second: SokobanClone_byVellidragon_39
+  - first:
+      213: 2354387423455770926
+    second: SokobanClone_byVellidragon_40
+  - first:
+      213: 2326277940092374878
+    second: SokobanClone_byVellidragon_41
+  - first:
+      213: -5702484384529529661
+    second: SokobanClone_byVellidragon_42
+  - first:
+      213: -9068717798377443571
+    second: SokobanClone_byVellidragon_43
+  - first:
+      213: -5823217843969475056
+    second: SokobanClone_byVellidragon_44
+  - first:
+      213: 6720845971464356998
+    second: SokobanClone_byVellidragon_45
+  - first:
+      213: 3075913942189740081
+    second: SokobanClone_byVellidragon_46
+  - first:
+      213: 792534941630482023
+    second: SokobanClone_byVellidragon_47
+  - first:
+      213: 8028135883011670166
+    second: SokobanClone_byVellidragon_48
+  - first:
+      213: 6727952782756573958
+    second: SokobanClone_byVellidragon_49
+  - first:
+      213: 7123470154509095302
+    second: SokobanClone_byVellidragon_50
+  - first:
+      213: 4431096507080463695
+    second: SokobanClone_byVellidragon_51
+  - first:
+      213: -6342379689355661167
+    second: SokobanClone_byVellidragon_52
+  - first:
+      213: 7788495268216984461
+    second: SokobanClone_byVellidragon_53
+  - first:
+      213: -2057615775145701331
+    second: SokobanClone_byVellidragon_54
+  - first:
+      213: 8803023229126296919
+    second: SokobanClone_byVellidragon_55
+  - first:
+      213: 4505857490209997471
+    second: SokobanClone_byVellidragon_56
+  - first:
+      213: -1883992408619923900
+    second: SokobanClone_byVellidragon_57
+  - first:
+      213: -6464224375948894412
+    second: SokobanClone_byVellidragon_58
+  - first:
+      213: 5720621018770954313
+    second: SokobanClone_byVellidragon_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 57
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba51aa9c54a73370800000000000000
+      internalID: 8302285155719011006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187d0dad431ab260800000000000000
+      internalID: 7114019785721870365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95417e1ba37e79980800000000000000
+      internalID: -8532096729751284647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848280fc722cb82d0800000000000000
+      internalID: -3275310827748972472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81038e05d1cd53ea0800000000000000
+      internalID: -5893562518874869736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67de545fd53e010800000000000000
+      internalID: 1216919632341726917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc89b49ed63b520800000000000000
+      internalID: 2716635848997653289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf323d0eee4b040800000000000000
+      internalID: 4662614163617741975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe695002da95ba0800000000000000
+      internalID: -6099653867252289642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb08996f15842290800000000000000
+      internalID: -7916055875048436770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661cbb398daf0e7a0800000000000000
+      internalID: -6349799666493963930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497581b44b07a62e0800000000000000
+      internalID: -2131767553950197868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d5754a05bc54a0800000000000000
+      internalID: -6603203897912340163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce72252f97e49a0800000000000000
+      internalID: -6246921551448904654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c1e3e1c864c130800000000000000
+      internalID: 3586106385254958760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb73a284b7f39c180800000000000000
+      internalID: -9094668173773752385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db75701862bf1b0800000000000000
+      internalID: -5621857374226105015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03467ca0ef50be0800000000000000
+      internalID: -1511522777664573205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b87181bf90e720800000000000000
+      internalID: 2873472146992576954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be312eb4bb9cff110800000000000000
+      internalID: 1296977023975166955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad554f48d3b8f40800000000000000
+      internalID: 5731742592003332853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a809b3b0e82954d0800000000000000
+      internalID: -3145437919188547418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bebf6441acb3140800000000000000
+      internalID: 4700572824530316051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b966925522cac8a00800000000000000
+      internalID: 760171700576413339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015906e215d255150800000000000000
+      internalID: 5860640316786251024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa01a17145c325c0800000000000000
+      internalID: -4241329539182949725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a12a57b4ed0360800000000000000
+      internalID: 7137612460594407466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991e5f6a8d287250800000000000000
+      internalID: 5942549780912544154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d901da8ca0b743f0800000000000000
+      internalID: -916569744036787751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a213184a0480d0800000000000000
+      internalID: -3421598512220822928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6adbbe0d2bedde0800000000000000
+      internalID: -1306410231512848719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37893f2ac24948dd0800000000000000
+      internalID: -2484698174968326029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570c8c2370dc7dd0800000000000000
+      internalID: -2486883701128165545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def5ba2bb7b8ec20800000000000000
+      internalID: 3236038346769039061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f4e3286a4803c0800000000000000
+      internalID: -4393179625360656494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500cd7ff5a208d630800000000000000
+      internalID: 3951911584996900869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad03446f2e01ba00800000000000000
+      internalID: 770412607965433255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b1abd301f7e4a0800000000000000
+      internalID: -6564012932997205690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6826334e22f8675c0800000000000000
+      internalID: -4218026620965657978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f8aacc79e21050800000000000000
+      internalID: 5769930794800312658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297ab633e67ca020800000000000000
+      internalID: 2354387423455770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f880c1679984020800000000000000
+      internalID: 2326277940092374878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c7e25aa4bcd0b0800000000000000
+      internalID: -5702484384529529661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2373e531752280800000000000000
+      internalID: -9068717798377443571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebb704936cf2fa0800000000000000
+      internalID: -5823217843969475056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848f3f6dcd354d50800000000000000
+      internalID: 6720845971464356998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13014ebfe67dfaa20800000000000000
+      internalID: 3075913942189740081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76648f39456affa00800000000000000
+      internalID: 792534941630482023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904a7bfc0ba96f60800000000000000
+      internalID: 8028135883011670166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037ec1e86d7e5d50800000000000000
+      internalID: 6727952782756573958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819c9f1d56abd260800000000000000
+      internalID: 7123470154509095302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f455106dbca6e7d30800000000000000
+      internalID: 4431096507080463695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bd41a6475bf7a0800000000000000
+      internalID: -6342379689355661167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8352e46e2b461c60800000000000000
+      internalID: 7788495268216984461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20533eaa51e173e0800000000000000
+      internalID: -2057615775145701331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c5998cfe9a2a70800000000000000
+      internalID: 8803023229126296919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920088a385088e30800000000000000
+      internalID: 4505857490209997471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464dacd2e6bad5e0800000000000000
+      internalID: -1883992408619923900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f1523dd267a46a0800000000000000
+      internalID: -6464224375948894412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SokobanClone_byVellidragon_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d976e18ab36f40800000000000000
+      internalID: 5720621018770954313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
